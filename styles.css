@@ -62,8 +62,12 @@ th {
   background-color: #e7e0d2;
 }
 
-.resume-button {
+.resume-section {
   text-align: center;
+  margin-top: 30px;
+}
+
+.resume-button {
   display: inline-block;
   background-color: #1f4d2e;
   color: white;
