@@ -15,6 +15,12 @@ h1 {
   margin-bottom: 0px;
 }
 
+h2 {
+  margin-top: 40px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #1f4d2e;
+}
+
 h1, h2, h3 {
   text-align: center;
 }
@@ -90,6 +96,10 @@ th {
   border-radius: 20px;
   background-color: #e7e0d2;
   font-weight: bold;
+}
+
+#contact + p {
+  text-align: center;
 }
 
 /* Mobile Design */
