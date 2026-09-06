@@ -1,11 +1,11 @@
-<!Everything>
+/* Everything */
 body {
   font-family: "Times New Roman", Times, serif;
   color: #1f4d2e;
   background-color: #f5f1e8;
 }
 
-<!Headers>
+/* Headers */
 h1, h2, h3 {
   text-align: center;
 }
