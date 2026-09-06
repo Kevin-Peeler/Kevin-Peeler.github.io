@@ -63,6 +63,7 @@ th {
 }
 
 .resume-button {
+  text-align: center;
   display: inline-block;
   background-color: #1f4d2e;
   color: white;
