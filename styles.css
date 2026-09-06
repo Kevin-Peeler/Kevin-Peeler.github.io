@@ -21,7 +21,7 @@ h1 {
 
 h2 {
   margin-top: 40px;
-  padding-bottom: 0 25px 5px 25px;
+  padding: 0 25px 5px 25px;
   border-bottom: 1px solid #1f4d2e;
   width: fit-content;
   margin-left: auto;
