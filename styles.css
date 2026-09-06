@@ -22,7 +22,7 @@ h1, h2, h3 {
 .subtitle {
   text-align: center;
   margin-top: 0;
-  margin-bottom: 25px;
+  margin-bottom: 40px;
 }
 
 nav {
@@ -71,6 +71,21 @@ th {
   text-decoration: none;
   border-radius: 5px;
   margin-top: 20px;
+}
+
+.skills-list {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.skills-list span {
+  border: 1px solid #1fed2e;
+  padding: 8px 14px;
+  border-radius: 20px;
+  background-color: #e7e0d2;
+  font-weight: bold;
 }
 
 /* Mobile Design */
