@@ -66,4 +66,25 @@ th {
   margin-top: 20px;
 }
 
+@media (max-width: 600px) {
+  body {
+    padding: 20px 12px;
+  }
 
+  h1 {
+    font-size: 32px;
+  }
+
+  nav a {
+    display: block;
+    margin: 8px 0;
+  }
+
+  table {
+    font-size: 14px;
+  }
+
+  th, td {
+    padding: 8px;
+  }
+}
