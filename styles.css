@@ -66,6 +66,7 @@ th {
   margin-top: 20px;
 }
 
+/* Mobile Design */
 @media (max-width: 600px) {
   body {
     padding: 20px 12px;
